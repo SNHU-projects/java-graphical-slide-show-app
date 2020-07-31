@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Slide Show:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Slide_Show_jar</output-path>
+    <root id="archive" name="Slide Show.jar">
+      <element id="module-output" name="Slide Show" />
+    </root>
+  </artifact>
+</component>
